@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "ControlCenter.dll",
+  "latest": "4038079137-DF9EB504497489406F7BE1FFB9144D54-1",
+  "builds": [
+    {
+      "key": "4038079137-DF9EB504497489406F7BE1FFB9144D54-1",
+      "timestamp": "4038079137",
+      "pdb_guid": "DF9EB504497489406F7BE1FFB9144D54",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/4038079137-DF9EB504497489406F7BE1FFB9144D54-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
